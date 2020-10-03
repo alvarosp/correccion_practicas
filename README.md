@@ -1,7 +1,7 @@
 # correccion_practicas
 This script evaluates Java exercises downloaded from Blackboard
 
-This scrip does the following tasks:
+This script does the following tasks:
 * Unzip the file with the exercises dowloaded from Blackboard
 * For each student's exercise:
   * Get the email and save it in log.txt
